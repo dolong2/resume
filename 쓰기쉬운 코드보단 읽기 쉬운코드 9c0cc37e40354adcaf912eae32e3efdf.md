@@ -4,7 +4,7 @@
 
 ### Contact.
 
-Email. k01066624566**@gmail.com**
+Email. k01066624566@gmail.com
 
 Phone. **010-6662-4566**
 
