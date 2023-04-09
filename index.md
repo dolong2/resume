@@ -2,7 +2,7 @@
 
 ### Contact.
 
-Email. k01066624566@gmail.com
+Email. jjy006546@gmail.com
 
 Phone. **010-6662-4566**
 
@@ -55,7 +55,7 @@ GitHub. [https://github.com/dolong2](https://github.com/dolong2)
     - 사용자가 인증코드를 받고 입력하는 과정이 불편하게 느껴져서 개발하게 됨
     - 메일은 버튼이 보내지고 그 버튼을 누르면 인증이 완료되는 플로우로 개발하면 사용자가 훨씬더 편해질 수 있어서 해당 플로우로 개발함
         
-        ![스크린샷 2023-03-20 오후 12.29.59.png](./img/sample.png)
+        ![스크린샷 2023-03-20 오후 12.29.59.png](./img/sample.png) {: width="80" height="80"}
         
     - redis로 구현
     - 코드를 uuid기반으로 생성한 코드가 있는 uri로 요청보내는 버튼을 메일로 보낸다
